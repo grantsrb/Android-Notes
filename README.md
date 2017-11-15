@@ -4,8 +4,8 @@
 
 A simple app to take notes on your android device.
 
-![alt text](./readmeimgs/mainview.png "Main View")
-![alt text](./readmeimgs/noteview.png "Note View")
+![main view](./readmeimgs/mainview0.png "Main View")
+![note view](./readmeimgs/noteview0.png "Note View")
 
 ## Support and Contact Details ##
 
